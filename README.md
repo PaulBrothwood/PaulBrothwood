@@ -12,7 +12,7 @@ I am a passionate leader and advocate for humanitarian efforts, sustainability, 
 
 ### 1. Supporting Human Rights in Somaliland
    - Advocated for the release of poet Abdirahman Abees, detained in Somaliland for addressing human rights issues through poetry.
-   - [Read the story here](https://www.expressandstar.com/news/uk-news/2019/02/02/controversial-poet-freed-after-bill-steps-in/)
+   - [Read the story here]([https://www.expressandstar.com/news/uk-news/2019/02/02/controversial-poet-freed-after-bill-steps-in/](https://viribusnews.com/paul-brothwood-has-met-with-a-british-citizen-that-was-imprisoned-in-somaliland/)
 
 ### 2. Speaking at the United Nations
    - Delivered a speech at the UN's Fourth Committee on Decolonisation, emphasising development in Western Sahara and Morocco’s autonomy plan as a pathway to economic stability.
