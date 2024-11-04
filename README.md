@@ -1,4 +1,7 @@
 👋 Hi, I’m @PaulBrothwood
+
+![Paul Brothwood](https://github.com/PaulBrothwood/PaulBrothwood/blob/main/thumbnail_IMG_2933.jpg)
+
 👀 I’m interested in sustainability, environmental practices, construction innovations, and leadership in business.
 🌱 I’m currently learning how to leverage tech for environmental management and construction efficiencies.
 💞️ I’m looking to collaborate on projects that combine sustainability and practical business solutions, especially in construction, operations management, and project management.
