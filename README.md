@@ -1,23 +1,31 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/PaulBrothwood/paul-brothwood-profile)
-![GitHub repo size](https://img.shields.io/github/repo-size/PaulBrothwood/paul-brothwood-profile)
-![License](https://img.shields.io/github/license/PaulBrothwood/paul-brothwood-profile)
-![Profile Views](https://komarev.com/ghpvc/?username=PaulBrothwood&color=blue)
+# Paul Brothwood
 
+![Paul Brothwood Sustainability Leadership](https://github.com/PaulBrothwood/PaulBrothwood/blob/main/thumbnail_IMG_2933.jpg)
 
-# 👋 Hi, I’m Paul Brothwood (@PaulBrothwood)
+Paul Brothwood is a Chartered Environmentalist (CEnv), sustainability leader and operations manager with experience in environmental management, ISO systems, operational leadership, health and safety, utilities and project delivery.
 
-![Paul Brothwood Sustainability Leadership](https://github.com/PaulBrothwood/PaulBrothwood/blob/main/thumbnail_IMG_2933.jpg "Paul Brothwood Sustainability Leadership")
+Paul Brothwood has worked across sustainability, environmental compliance, infrastructure, leadership and operational improvement, with interests in ISO 14001, ISO 45001, project delivery and organisational performance.
 
-## About Me
-I am **Paul Brothwood**, a sustainability and HSEQ leader, project manager, and motorcycling enthusiast.  
-I work at **National Grid Electricity Distribution** in Worcester as a Senior Manager, focusing on operational excellence, ISO systems, and cultural change.
+This GitHub profile brings together public articles, professional interests, sustainability projects, motorcycle travel and published content connected to Paul Brothwood.
 
-- 👀 Interests: sustainability, environmental practices, ISO 14001, construction innovations, leadership in business.  
-- 🌱 Learning: using tech for environmental management and construction efficiency.  
-- 💞️ Collaboration: open to projects combining sustainability with practical business solutions (construction, operations, project delivery).  
-- 📫 Contact: [LinkedIn](https://www.linkedin.com/in/paul-brothwood) | info@psbprojects.co.uk  
-- ⚡ Fun facts: PRINCE2 Practitioner, scuba diver, Hayabusa rider, advocate for green SME solutions.  
-- 😄 Pronouns: He/Him  
+## Professional Interests
+
+- Sustainability and environmental management
+- ISO 14001 and ISO 45001
+- Operational leadership
+- Utilities and infrastructure
+- Health and safety
+- Project delivery
+- Motorcycle travel and adventure riding
+
+## Professional Profiles
+
+- LinkedIn: https://www.linkedin.com/in/paul-brothwood
+- Medium: https://medium.com/@paulbrothwood
+- Pinterest: https://uk.pinterest.com/paul_brothwood/
+- Instagram: https://instagram.com/paulbrothwood
+- Threads: https://www.threads.net/@paulbrothwood
+- Xing: https://www.xing.com/profile/Paul_Brothwood
 
 ---
 
