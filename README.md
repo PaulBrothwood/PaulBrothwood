@@ -69,3 +69,26 @@ This GitHub profile brings together public articles, professional interests, sus
 - [Instagram](https://instagram.com/paulbrothwood)  
 - [Threads](https://www.threads.net/@paulbrothwood)  
 
+## Latest Articles
+
+### Honda Adventure Roads 2026
+
+- Honda Adventure Roads 2026 Hub
+  https://paulbrothwood.blogspot.com/2026/06/paul-brothwood-honda-adventure-roads-2026.html
+
+- What Honda Adventure Roads 2026 Taught Me About Leadership
+  https://paulbrothwood.blogspot.com/2026/06/paul-brothwood-what-honda-adventure.html
+
+### Professional Development
+
+- Chartered Environmentalist
+  https://paulbrothwood.blogspot.com/2026/06/paul-brothwood-chartered-environmentalist.html
+
+- PRINCE2: Moving with the Times
+  https://paulbrothwood.blogspot.com/2024/11/prince2-moving-with-times.html
+
+- Reflections on ITIL 4
+  https://paulbrothwood.blogspot.com/2024/11/reflections-on-itil-from-fundamental.html
+
+- Business Re-engineering with Health and Safety
+  https://paulbrothwood.blogspot.com/2024/10/business-re-engineering-with-health-and.html
