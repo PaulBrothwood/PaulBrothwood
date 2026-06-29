@@ -1,6 +1,6 @@
 # Paul Brothwood
 
-![Paul Brothwood Sustainability Leadership](https://github.com/PaulBrothwood/PaulBrothwood/blob/main/thumbnail_IMG_2933.jpg)
+![Paul Brothwood Sustainability Leadership](https://raw.githubusercontent.com/PaulBrothwood/paul-brothwood-photos/main/sustainability-leadership/paul-brothwood-united-nations-sustainability-speech.JPEG)
 
 Paul Brothwood is a Chartered Environmentalist (CEnv), sustainability leader and operations manager with experience in environmental management, ISO systems, operational leadership, health and safety, utilities and project delivery.
 
