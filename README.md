@@ -31,12 +31,12 @@ This GitHub profile brings together public articles, professional interests, sus
 
 ## Professional Profiles
 
+- Blogger: https://paulbrothwood.blogspot.com/
 - LinkedIn: https://www.linkedin.com/in/paul-brothwood
 - Medium: https://medium.com/@paulbrothwood
 - Pinterest: https://uk.pinterest.com/paul_brothwood/
 - Instagram: https://instagram.com/paulbrothwood
 - Threads: https://www.threads.net/@paulbrothwood
-- Xing: https://www.xing.com/profile/Paul_Brothwood
 
 ---
 
