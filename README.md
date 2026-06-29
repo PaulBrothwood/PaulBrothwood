@@ -19,6 +19,25 @@ Professional interests include:
 
 This GitHub profile brings together public articles, professional interests, sustainability projects, motorcycle travel and published content connected to Paul Brothwood.
 
+Featured Projects
+Honda Adventure Roads 2026
+
+My complete Honda Adventure Roads 2026 journey through the Pyrenees.
+
+https://github.com/PaulBrothwood/paul-brothwood-honda-adventure-roads-2026
+
+Blogger
+
+Professional articles covering sustainability, leadership, ISO management systems and motorcycle travel.
+
+https://paulbrothwood.blogspot.com/
+
+Medium
+
+Long-form articles and professional reflections.
+
+https://medium.com/@paulbrothwood
+
 ## Professional Interests
 
 - Sustainability and environmental management
