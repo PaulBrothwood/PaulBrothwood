@@ -21,29 +21,13 @@ This GitHub profile brings together public articles, professional interests, sus
 
 ## Featured Projects
 
-### 🏍️ Paul Brothwood | Honda Adventure Roads 2026
+| Project                            | Description                                                                                                                                                                                         |
+| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🏍️ **Honda Adventure Roads 2026** | My complete journey through the Pyrenees, including photographs, articles and experiences. <br> https://github.com/PaulBrothwood/paul-brothwood-honda-adventure-roads-2026                          |
+| 🌍 **Articles and Publications**   | My central library of Blogger articles covering sustainability, leadership, ISO management systems, PRINCE2, ITIL and motorcycle travel. <br> https://github.com/PaulBrothwood/paul-brothwood-blogs |
+| 📸 **Photo Library**               | A growing collection of professional and motorcycle photography used throughout my projects. <br> https://github.com/PaulBrothwood/paul-brothwood-photos                                            |
+| 👤 **Professional Profile**        | Career history, qualifications, leadership experience and professional achievements. <br> https://github.com/PaulBrothwood/paul-brothwood-profile                                                   |
 
-Photographs, experiences and articles from my Honda Adventure Roads 2026 journey across the Pyrenees.
-
-https://github.com/PaulBrothwood/paul-brothwood-honda-adventure-roads-2026
-
-### 🌍 Paul Brothwood | Articles and Publications
-
-A central hub for my articles covering sustainability, leadership, ISO management systems, PRINCE2, ITIL and motorcycle travel.
-
-https://github.com/PaulBrothwood/paul-brothwood-blogs
-
-### 📸 Paul Brothwood | Photo Library
-
-A growing collection of photographs from professional events, sustainability projects and motorcycle adventures.
-
-https://github.com/PaulBrothwood/paul-brothwood-photos
-
-### 👤 Paul Brothwood | Professional Profile
-
-Professional background, qualifications, leadership experience and career milestones.
-
-https://github.com/PaulBrothwood/paul-brothwood-profile
 
 ## Professional Interests
 
