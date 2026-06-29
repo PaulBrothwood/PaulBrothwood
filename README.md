@@ -2,9 +2,20 @@
 
 ![Paul Brothwood Sustainability Leadership](https://raw.githubusercontent.com/PaulBrothwood/paul-brothwood-photos/main/sustainability-leadership/paul-brothwood-united-nations-sustainability-speech.JPEG)
 
-Paul Brothwood is a Chartered Environmentalist (CEnv), sustainability leader and operations manager with experience in environmental management, ISO systems, operational leadership, health and safety, utilities and project delivery.
+Paul Brothwood is a Chartered Environmentalist (CEnv), Operations Manager at National Grid Electricity Distribution and sustainability leader.
 
-Paul Brothwood has worked across sustainability, environmental compliance, infrastructure, leadership and operational improvement, with interests in ISO 14001, ISO 45001, project delivery and organisational performance.
+This GitHub profile brings together articles, projects and resources covering sustainability, ISO management systems, operational leadership, project delivery, Honda Adventure Roads 2026 and long-distance motorcycle touring.
+
+Professional interests include:
+
+- Environmental management
+- ISO 14001 and ISO 45001
+- Sustainability leadership
+- Operational excellence
+- PRINCE2
+- ITIL 4
+- Honda Adventure Roads 2026
+- Suzuki Hayabusa touring
 
 This GitHub profile brings together public articles, professional interests, sustainability projects, motorcycle travel and published content connected to Paul Brothwood.
 
